@@ -1,7 +1,7 @@
 <?php
 namespace Dimaip\TwitterHelper\Eel;
 
-use TYPO3\Eel\ProtectedContextAwareInterface;
+use Neos\Eel\ProtectedContextAwareInterface;
 use TYPO3\TYPO3CR\Domain\Model\NodeInterface;
 use Neos\Flow\Annotations as Flow;
 
