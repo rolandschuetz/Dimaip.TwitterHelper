@@ -7,7 +7,7 @@ Dimaip:
     consumerSecret: ''
 Neos:
   Neos:
-    typoScript:
+    fusion:
       autoInclude:
         Dimaip.TwitterHelper: true
   Fusion:
