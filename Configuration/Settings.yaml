@@ -1,8 +1,4 @@
 
-TYPO3:
-  TypoScript:
-    defaultContext:
-      Twitter: Dimaip\TwitterHelper\Eel\TwitterHelper
 Dimaip:
   TwitterHelper:
     oauthAccessToken: ''
@@ -14,3 +10,6 @@ Neos:
     typoScript:
       autoInclude:
         Dimaip.TwitterHelper: true
+  Fusion:
+    defaultContext:
+      Twitter: Dimaip\TwitterHelper\Eel\TwitterHelper
